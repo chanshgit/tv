@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "py_youer",
+      "name": "🅱️幼儿教育 ",
+      "type": 3,
+      "api": "https://jsd.cdn.zzko.cn/gh/UndCover/PyramidStore@main/tutorial/base/spider.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/youer.py"
+    }
+  ],
+  "spider": "https://jsd.cdn.zzko.cn/gh/UndCover/Pyramid@main/python/src/main/java/com/undcover/freedom/pyramid/PythonSpider.java"
+}
