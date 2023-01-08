@@ -5,7 +5,7 @@
       "name":"🍀豆瓣首页(JS)",
       "type":3,
       "api":"https://ghproxy.com/https://raw.githubusercontent.com/chanshgit/tv/main/add-in/libs/drpy2.mini.js",
-      "ext":"./js/drpy.js",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/chanshgit/tv/main/add-in/js/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
