@@ -4,7 +4,7 @@
       "key":"js豆瓣",
       "name":"🍀豆瓣首页(JS)",
       "type":3,
-      "api":"./libs/drpy2.mini.js",
+      "api":"https://ghproxy.com/https://raw.githubusercontent.com/chanshgit/tv/main/add-in/libs/drpy2.mini.js",
       "ext":"./js/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
